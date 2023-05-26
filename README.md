@@ -4,9 +4,7 @@
 - ⌨️ My favorite languages are C, C++, Java, and Python
 - 📧 E-mail me at: maher.ry@northeastern.edu
 
-![](https://komarev.com/ghpvc/?username=ryan-maher&style=plastic&color=brightgreen&label=Visitors)
-![](https://img.shields.io/coincap/price-usd/bitcoin?color=brightgreen&style=plastic)
-![](https://img.shields.io/github/last-commit/ryan-maher/ryan-maher?style=plastic)
+
 
 ## Interests
 - ⛓️ Blockchain Technology
@@ -20,8 +18,10 @@
 #
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-maher&layout=compact)](https://github.com/ryan-maher/github-readme-stats)
- 
-
+# 
+![](https://komarev.com/ghpvc/?username=ryan-maher&style=plastic&color=brightgreen&label=Visitors)
+![](https://img.shields.io/coincap/price-usd/bitcoin?color=brightgreen&style=plastic)
+![](https://img.shields.io/github/last-commit/ryan-maher/ryan-maher?style=plastic)
 
 
 <!--
