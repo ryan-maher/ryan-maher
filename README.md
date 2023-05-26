@@ -1,4 +1,28 @@
-### Hi there 👋
+# Ryan Maher🦎
+- 💻 Information Systems Graduate Student @ Northeastern University
+- 🌱 I'm currently learning about Smart Contracts and Game Development
+- ⌨️ My favorite languages are C, C++, Java, and Python
+- 📧 E-mail me at: maher.ry@northeastern.edu
+
+![](https://komarev.com/ghpvc/?username=ryan-maher&style=plastic&color=brightgreen&label=Visitors)
+![](https://img.shields.io/coincap/price-usd/bitcoin?color=brightgreen&style=plastic)
+![](https://img.shields.io/github/last-commit/ryan-maher/ryan-maher?style=plastic)
+
+## Interests
+- ⛓️ Blockchain Technology
+- 🎮 Game Development
+- 🎹 Music Production
+- 📊 Technical Analysis
+
+
+## Publications
+- [Game Design for Better Security of Combination Locks](https://doi.org/10.1609/aaai.v36i11.21547) Proceedings of the AAAI Conference on Artificial Intelligence
+#
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-maher&layout=compact)](https://github.com/ryan-maher/github-readme-stats)
+ 
+
+
 
 <!--
 **ryan-maher/ryan-maher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
