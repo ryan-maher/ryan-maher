@@ -20,10 +20,10 @@
 # 
 ![](https://komarev.com/ghpvc/?username=ryan-maher&style=plastic&color=brightgreen&label=Visitors)
 ![](https://img.shields.io/coincap/price-usd/bitcoin?color=brightgreen&style=plastic)
-![](https://img.shields.io/github/last-commit/ryan-maher/ryan-maher?style=plastic)
 
 
 <!--
+![](https://img.shields.io/github/last-commit/ryan-maher/ryan-maher?style=plastic)
 **ryan-maher/ryan-maher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
