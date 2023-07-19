@@ -7,8 +7,8 @@
 ## Interests
 - ⛓️ Blockchain Technology
 - 🎮 Game Development
+- ⚙️ 3D Printing & Design
 - 🎹 Music Production
-- 📊 Technical Analysis
 
 ## Publications
 - [Game Design for Better Security of Combination Locks](https://doi.org/10.1609/aaai.v36i11.21547) Proceedings of the AAAI Conference on Artificial Intelligence
