@@ -1,7 +1,7 @@
 # Ryan Maher🦎
 - 💻 Information Systems Graduate Student @ Northeastern University
 - 🌱 I'm currently learning about Smart Contracts and Game Development
-- ⌨️ My favorite languages are C, C++, Java, and Python
+- ⌨️ My favorite languages are C, C++, Java, and Solidity
 - 📧 E-mail me at: maher.ry@northeastern.edu
 
 ## Interests
