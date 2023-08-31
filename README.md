@@ -1,6 +1,6 @@
 # Ryan Maher🦎
 - 💻 Information Systems Graduate Student @ Northeastern University
-- 🌱 I'm currently learning Rust
+- 🌱 I'm currently learning Rust and Cloud Computing
 - ⌨️ My favorite languages are C, C++, Java, and Solidity
 - 📧 E-mail me at: maher.ry@northeastern.edu
 
