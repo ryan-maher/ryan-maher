@@ -1,6 +1,6 @@
 # Ryan Maher🦎
 - 💻 Information Systems Graduate Student @ Northeastern University
-- 🌱 I'm currently learning Rust and App Development
+- 🌱 I'm currently learning Rust and iOS App Development
 - ⌨️ My favorite languages are C, C++, Java, and Solidity
 - 📧 E-mail me at: maher.ry@northeastern.edu
 
