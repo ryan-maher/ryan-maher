@@ -1,13 +1,12 @@
 # Ryan Maher🦎
 - 💻 Information Systems Graduate Student @ Northeastern University
-- 🌱 I'm currently learning Rust and iOS App Development
-- ⌨️ My favorite languages are C, C++, Java, and Solidity
+- 🌱 I'm currently learning Quantum Computing and Web Development
+- ⌨️ My favorite languages are C, C++, and Java
 - 📧 E-mail me at: maher.ry@northeastern.edu
 
 ## Interests
 - ⛓️ Blockchain Technology
-- 🎮 Game Development
-- ⚙️ 3D Printing & Design
+- ⚙️ 3D Printing & Prototyping
 - 🎹 Music Production
 
 ## Publications
