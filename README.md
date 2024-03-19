@@ -1,12 +1,12 @@
 # Ryan Maher🦎
 - 💻 Information Systems Graduate Student @ Northeastern University
-- 🌱 I'm currently learning Quantum Computing and Web Development
+- 🌱 I'm currently learning ESP32 IoT Device Prototyping and PCB design
 - ⌨️ My favorite languages are C, C++, and Java
 - 📧 E-mail me at: maher.ry@northeastern.edu
 
-## Interests
-- ⛓️ Blockchain Technology
-- ⚙️ 3D Printing & Prototyping
+## Current Interests
+- ⚡ Electronics Prototyping
+- ⚙️ 3D Printing & Design
 - 🎹 Music Production
 
 ## Publications
