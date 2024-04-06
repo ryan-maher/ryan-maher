@@ -1,11 +1,11 @@
 # Ryan Maher🦎
 - 💻 Information Systems Graduate Student @ Northeastern University
-- 🌱 I'm currently learning ESP32 IoT Device Prototyping and PCB design
+- 🌱 I'm currently learning ESP32 and PCB design
 - ⌨️ My favorite languages are C, C++, and Java
 - 📧 E-mail me at: maher.ry@northeastern.edu
 
 ## Current Interests
-- ⚡ Electronics Prototyping
+- ⚡ Microcontrollers
 - ⚙️ 3D Printing & Design
 - 🎹 Music Production
 
