@@ -1,13 +1,7 @@
 # Ryan Maher🦎
-- 💻 Information Systems Graduate Student @ Northeastern University
-- 🌱 I'm currently learning ESP32 and PCB design
+- 💻 High Performance Computing Systems Administrator @ The University of Central Oklahoma
 - ⌨️ My favorite languages are C, C++, and Java
-- 📧 E-mail me at: maher.ry@northeastern.edu
-
-## Current Interests
-- ⚡ Microcontrollers
-- ⚙️ 3D Printing & Design
-- 🎹 Music Production
+- 📧 E-mail me at: rmaher@uco.edu
 
 ## Publications
 - [Game Design for Better Security of Combination Locks](https://doi.org/10.1609/aaai.v36i11.21547) Proceedings of the AAAI Conference on Artificial Intelligence
