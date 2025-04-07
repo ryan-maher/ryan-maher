@@ -3,10 +3,10 @@
 - 🌱 I'm currently learning Kubernetes
 
 ## Projects & Interests
-- 🖥️ Homelab (Self-Hosting with Kubernetes)
+- 🖥️ Homelab - Self-Hosting with Kubernetes
 - 🎲 Game Development
 - 🎧 Music Production
-- 🧩 3D Printing & Design
+- 🧩 3D Printing & Design - [MakerWorld](https://makerworld.com/en/@misterryan/upload)
 
 ## Publications
 - [Game Design for Better Security of Combination Locks](https://doi.org/10.1609/aaai.v36i11.21547) Proceedings of the AAAI Conference on Artificial Intelligence
