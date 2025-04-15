@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Kubernetes
 
 ## Projects & Interests
-- 🖥️ Homelab - Self-Hosting with Kubernetes
+- 🖥️ [Homelab](https://github.com/ryan-maher/homelab) - Self-Hosting with Kubernetes
 - 🎲 Game Development
 - 🎧 Music Production
 - 🧩 3D Printing & Design - [MakerWorld](https://makerworld.com/en/@misterryan/upload)
